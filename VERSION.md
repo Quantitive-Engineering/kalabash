@@ -1,5 +1,13 @@
 # Kalabash Website — Version History
 
+## v1.0.1 — Hero Update
+**Date:** 2025-04-27
+
+### Changes
+- Removed "Where Tradition Meets the Horizon" punchline from hero section
+
+---
+
 ## v1.0.0 — Initial Release
 **Date:** 2025-04-27
 
