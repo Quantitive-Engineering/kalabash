@@ -1,5 +1,17 @@
 # Kalabash Website — Version History
 
+## v1.0.2 — Mobile Optimization
+**Date:** 2025-04-27
+
+### Changes
+- Full mobile responsive layout (768px breakpoint)
+- Nav pills repositioned to bottom center on mobile
+- About, Menu, Contact, and Footer sections stack vertically
+- Scaled down logo, fonts, and cards for smaller screens
+- Fixed background-attachment for iOS/mobile compatibility
+
+---
+
 ## v1.0.1 — Hero Update
 **Date:** 2025-04-27
 
