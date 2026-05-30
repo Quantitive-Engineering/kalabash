@@ -1,5 +1,14 @@
 # Kalabash Website — Version History
 
+## v1.0.4 — Maintenance Mode
+**Date:** 2025-04-27
+
+### Changes
+- Coming soon page is now the live index.html with video background and Bloom Hospitality link
+- Full website preserved as main-site.html (swap back when ready)
+
+---
+
 ## v1.0.3 — Coming Soon Page
 **Date:** 2025-04-27
 
