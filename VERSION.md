@@ -1,5 +1,13 @@
 # Kalabash Website — Version History
 
+## v1.0.3 — Coming Soon Page
+**Date:** 2025-04-27
+
+### Changes
+- Added coming-soon.html maintenance page
+
+---
+
 ## v1.0.2 — Mobile Optimization
 **Date:** 2025-04-27
 
